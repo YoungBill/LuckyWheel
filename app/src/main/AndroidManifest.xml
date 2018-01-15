@@ -23,15 +23,6 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name="com.example.bigwheeldemo.BigWheelActivity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.bigwheeldemo.LuckyOneActivity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.example.bigwheeldemo.LuckyTwoActivity"
-            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
